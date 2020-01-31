@@ -19,6 +19,7 @@ export const GlobalStyle = createGlobalStyle`
 		background-color: #fafafe;
 		font-family: Arial, Helvatica, sans-serif;
 		font-size: 16px;
+		background-color: rgb(40, 40, 40);
 	}
 
 	ul {
@@ -31,4 +32,5 @@ export const StoriesContainerWrapper = styled.main`
   max-width: 1200px;
   padding: 20px 15px;
   margin: auto;
+  color: #fff;
 `;
