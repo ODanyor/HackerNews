@@ -9,9 +9,11 @@ export const storyUrl = `${BaseUrl}item/`;
 export const getWeather = async () => {
   const result = await axios
     .get("https://darksky.net/forecast/41.2647,69.2163/ca24/en")
-    .then(({ data }) => {
-      const $ = cheerio.load(data);
-      return $(".desc .swap").text();
+    .then(async ({ data }) => {
+      const weather = await cheerio
+        .load(data)(".desc .swap")
+        .text();
+      return weather;
     });
   return result;
 };

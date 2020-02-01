@@ -16,6 +16,7 @@ function StoriesContainer() {
     getWeather().then(data => data && setWeather(data));
     getStoryids().then(data => data && setStoryIds(data));
   }, []);
+  console.log(weather);
 
   return (
     <>
