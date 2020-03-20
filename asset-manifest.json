@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/HackerNews/static/css/main.10f48b6e.chunk.css",
-    "main.js": "/HackerNews/static/js/main.c4bfd9cb.chunk.js",
-    "main.js.map": "/HackerNews/static/js/main.c4bfd9cb.chunk.js.map",
+    "main.css": "/HackerNews/static/css/main.a18bf36e.chunk.css",
+    "main.js": "/HackerNews/static/js/main.ae77def2.chunk.js",
+    "main.js.map": "/HackerNews/static/js/main.ae77def2.chunk.js.map",
     "runtime-main.js": "/HackerNews/static/js/runtime-main.73f5b31b.js",
     "runtime-main.js.map": "/HackerNews/static/js/runtime-main.73f5b31b.js.map",
-    "static/js/2.4e4f5320.chunk.js": "/HackerNews/static/js/2.4e4f5320.chunk.js",
-    "static/js/2.4e4f5320.chunk.js.map": "/HackerNews/static/js/2.4e4f5320.chunk.js.map",
+    "static/js/2.b1765d72.chunk.js": "/HackerNews/static/js/2.b1765d72.chunk.js",
+    "static/js/2.b1765d72.chunk.js.map": "/HackerNews/static/js/2.b1765d72.chunk.js.map",
     "index.html": "/HackerNews/index.html",
-    "precache-manifest.626565c0fc416a454461dad8487dcc86.js": "/HackerNews/precache-manifest.626565c0fc416a454461dad8487dcc86.js",
+    "precache-manifest.f94bcfc4e7b73bc5fcd94ce6423f9853.js": "/HackerNews/precache-manifest.f94bcfc4e7b73bc5fcd94ce6423f9853.js",
     "service-worker.js": "/HackerNews/service-worker.js",
-    "static/css/main.10f48b6e.chunk.css.map": "/HackerNews/static/css/main.10f48b6e.chunk.css.map",
-    "static/js/2.4e4f5320.chunk.js.LICENSE": "/HackerNews/static/js/2.4e4f5320.chunk.js.LICENSE",
+    "static/css/main.a18bf36e.chunk.css.map": "/HackerNews/static/css/main.a18bf36e.chunk.css.map",
+    "static/js/2.b1765d72.chunk.js.LICENSE": "/HackerNews/static/js/2.b1765d72.chunk.js.LICENSE",
     "static/media/news.svg": "/HackerNews/static/media/news.1dbe4503.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.73f5b31b.js",
-    "static/js/2.4e4f5320.chunk.js",
-    "static/css/main.10f48b6e.chunk.css",
-    "static/js/main.c4bfd9cb.chunk.js"
+    "static/js/2.b1765d72.chunk.js",
+    "static/css/main.a18bf36e.chunk.css",
+    "static/js/main.ae77def2.chunk.js"
   ]
 }
