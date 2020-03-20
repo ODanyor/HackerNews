@@ -13,4 +13,6 @@
 
 ## Screenshots
 
+![Screenshot of the project page](https://github.com/ODanyor/HackerNews/blob/master/src/static/hackernews.jpg?raw=true)
+
 ## [Live](https://odanyor.github.io/HackerNews/)
